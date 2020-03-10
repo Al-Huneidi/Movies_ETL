@@ -43,3 +43,7 @@ Histogram:
 
 Scatter Plots:
 ![alt text](https://github.com/Al-Huneidi/Movies_ETL/blob/master/Screenshots/release_date_wiki%7Crelease_date_kaggle.png)
+
+![alt text](https://github.com/Al-Huneidi/Movies_ETL/blob/master/Screenshots/wiki_box_office%7Ckaggle_revenue.png)
+
+
