@@ -42,8 +42,13 @@ Histogram:
 ![alt text](https://github.com/Al-Huneidi/Movies_ETL/blob/master/Screenshots/Ratings%20Histogram%20and%20Statistics.png)
 
 Scatter Plots:
+Realease Dates
 ![alt text](https://github.com/Al-Huneidi/Movies_ETL/blob/master/Screenshots/release_date_wiki%7Crelease_date_kaggle.png)
 
+wiki_box_office vs kaggle_revenue
 ![alt text](https://github.com/Al-Huneidi/Movies_ETL/blob/master/Screenshots/wiki_box_office%7Ckaggle_revenue.png)
+
+wiki_budget vs kaggle_budget
+![alt text](https://github.com/Al-Huneidi/Movies_ETL/blob/master/Screenshots/wiki_budget%7Ckaggle_budget.png)
 
 
