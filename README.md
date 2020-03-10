@@ -40,3 +40,6 @@ Images:
 
 Histogram:
 ![alt text](https://github.com/Al-Huneidi/Movies_ETL/blob/master/Screenshots/Ratings%20Histogram%20and%20Statistics.png)
+
+Scatter Plots:
+![alt text](https://github.com/Al-Huneidi/Movies_ETL/blob/master/Screenshots/release_date_wiki%7Crelease_date_kaggle.png)
