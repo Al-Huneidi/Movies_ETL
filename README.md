@@ -36,7 +36,7 @@ Used during entire transformation process:
 	- scatter plots
 	- connected pandas to a SQL database by creating a Database engine
 	
-Images:
+Images generated to compare similar values between the data sets:
 
 Histogram:
 ![alt text](https://github.com/Al-Huneidi/Movies_ETL/blob/master/Screenshots/Ratings%20Histogram%20and%20Statistics.png)
@@ -50,5 +50,8 @@ wiki_box_office vs kaggle_revenue
 
 wiki_budget vs kaggle_budget
 ![alt text](https://github.com/Al-Huneidi/Movies_ETL/blob/master/Screenshots/wiki_budget%7Ckaggle_budget.png)
+
+wiki_running_time vs kaggle_runtime
+![alt text](https://github.com/Al-Huneidi/Movies_ETL/blob/master/Screenshots/wiki_running_time%7Ckagggle_runtime.png
 
 
