@@ -54,4 +54,5 @@ wiki_budget vs kaggle_budget
 wiki_running_time vs kaggle_runtime
 ![alt text](https://github.com/Al-Huneidi/Movies_ETL/blob/master/Screenshots/wiki_running_time%7Ckagggle_runtime.png
 
-
+Verification data copied to movies table in SQL database:
+![alt text](https://github.com/Al-Huneidi/Movies_ETL/blob/master/Screenshots/row_count_movies_table_sql.png)
