@@ -35,3 +35,8 @@ Used during entire transformation process:
 	- histogram
 	- scatter plots
 	- connected pandas to a SQL database by creating a Database engine
+	
+Images:
+
+Histogram:
+![alt text](https://github.com/Al-Huneidi/Movies_ETL/blob/master/Screenshots/Ratings%20Histogram%20and%20Statistics.png)
